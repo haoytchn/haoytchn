@@ -1,4 +1,10 @@
-#### Gihub.
+### This is my github repository.
+You can Connect to me.
+> Write by...
+> * Python
+> * Tcl
+> * Learning C/C++
+---
 - 👋 Hi, I’m @haoytchn
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
