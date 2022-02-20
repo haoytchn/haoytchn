@@ -1,5 +1,5 @@
 ### This is my github repository.
-You can Connect to me.
+You can connect to me.
 > Write by...
 > * Python
 > * Tcl
