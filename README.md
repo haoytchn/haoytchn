@@ -2,7 +2,7 @@
 
 
 
-💻The programming language I'm using:
+💻The language I'm using:
 
  * Python
  * Tcl
